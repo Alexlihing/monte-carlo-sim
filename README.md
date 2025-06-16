@@ -7,3 +7,5 @@ A Python-based simulator to price European options using Monte Carlo simulation,
 ```bash
 pip install -r requirements.txt
 python main.py
+
+# monte-carlo-sim
